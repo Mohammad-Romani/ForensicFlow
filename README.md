@@ -10,8 +10,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
 
 **Mohammad Romani**  
-Department of Computer Engineering  
-Tarbiat Modares University, Tehran, Iran  
 m.romani@modares.ac.ir • November 18, 2025  
 
 ---
@@ -36,7 +34,7 @@ m.romani@modares.ac.ir • November 18, 2025
 
 ## Architecture
 
-<img src="figures/architecture.png" alt="ForensicFlow Architecture" width="100%"/>
+<img src="architecture.png" alt="ForensicFlow Architecture" width="100%"/>
 
 ## Quick Start
 
