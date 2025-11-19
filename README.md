@@ -52,7 +52,7 @@ python utils.py --data_path ./Celeb-DF-v2 --output_path npz_data
 python train.py
 
 # 3. Inference + Grad-CAM (exactly as in Figure 1)
-python inference.py --input sample.mp4 --weights weights/best_model.pth --output result.jpg
+python inference.py --input sample.jpg --weights weights/best_model.pth --output result.jpg
 
 # ForensicFlow
 ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection (arXiv 2025) AUC 0.9752 • Full-frame processing • No face cropping • Preserves forensic artifacts RGB + Texture (Swin-T) + Frequency branches • Attention-based temporal fusion Official code + weights + Grad-CAM 
