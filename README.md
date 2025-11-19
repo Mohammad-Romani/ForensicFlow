@@ -4,7 +4,7 @@
 **arXiv 2025** • **AUC 0.9752** on Celeb-DF (v2) • **15 epochs only**  
 **Full-frame processing • No face cropping • Frequency branch • Attention-based temporal fusion**
 
-[![Paper](https://img.shields.io/badge/arXiv-2511.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2511.XXXXX)
+[![Paper](https://img.shields.io/badge/arXiv-2511.XXXXX-b31b1b.svg)]([https://arxiv.org/abs/2511.XXXXX](https://arxiv.org/abs/2511.14554))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
