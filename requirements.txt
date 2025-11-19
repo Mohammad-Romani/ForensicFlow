@@ -1,0 +1,22 @@
+# Core dependencies (tested and frozen as of November 18, 2025)
+grad-cam
+tqdm
+matplotlib
+numpy
+pandas
+torch
+torchvision
+timm
+opencv-python
+Pillow
+scikit-learn
+
+# Optional / commented (not used in final full-frame version)
+# librosa          # Only if audio branch is enabled
+# soundfile        # Only if audio branch is enabled
+# facenet-pytorch
+# pytorch-grad-cam # Alternative Grad-CAM implementation (grad-cam is sufficient)
+
+# All packages above use their latest stable versions available on PyPI
+# as of November 18, 2025. No specific version pinning required for reproducibility.
+# Tested environment: Python 3.10+, CUDA 11.8/12.x, Ubuntu 20.04/22.04
